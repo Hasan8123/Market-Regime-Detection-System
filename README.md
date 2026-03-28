@@ -38,4 +38,3 @@ This project is a Python-based tool for detecting and visualizing market regimes
 - Professional visualization
 
 ---
-**Developer/Creator:** tubakhxn
