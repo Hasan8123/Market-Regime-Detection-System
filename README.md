@@ -19,11 +19,16 @@ This project is a Python-based tool for detecting and visualizing market regimes
 - `README.md`: Methodology, usage, and project info
 
 ## Usage
-1. Install dependencies:
+1. Open terminal:
+   ```bash
+   git clone https://github.com/Hasan8123/Market-Regime-Detection-System.git
+   cd Market-Regime-Detection-System
+   ```
+2. Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-2. Run the project:
+3. Run the project:
     ```bash
     python main.py
     ```
